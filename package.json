@@ -1,0 +1,14 @@
+{
+  "name": "asd-ems-db",
+  "version": "1.0.0",
+  "description": "database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
