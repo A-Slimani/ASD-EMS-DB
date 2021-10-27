@@ -604,5 +604,8 @@
       "rosterdate": "2021-12-15",
       "id": 10
     }
-  ]
+  ],
+  "paymentpolicy": {
+    "policytext": "\n<b>\n\thello htere\n</b>"
+  }
 }

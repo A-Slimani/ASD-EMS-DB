@@ -1,4 +1,4 @@
-POST https://asd-ems-db.herokuapp.com/employees
+DELETE https://asd-ems-db.herokuapp.com/employees
 Content-Type: application/json
 
 {
